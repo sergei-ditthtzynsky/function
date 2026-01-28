@@ -1,2 +1,0 @@
-# database-zoya
-makluk
