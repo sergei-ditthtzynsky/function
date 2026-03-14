@@ -1,1 +1,11 @@
-{ "logs": [] }
+{
+  "logs": [
+    {
+      "who": "ditthtzy",
+      "role": "developer",
+      "action": "tambah user",
+      "detail": "frmnz (asisten)",
+      "time": "14 Mar 2026, 13.43"
+    }
+  ]
+}
