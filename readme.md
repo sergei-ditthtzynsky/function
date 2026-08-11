@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Radithya Atha R</b><br>
-  <i>Automation Bot Developer | WhatsApp & Telegram Specialist</i>
+  <i>Automation Bot Developer | Telegram Specialist</i>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## 👤 About Me
 
-- **Automation Bot Developer** focused on building and maintaining **WhatsApp & Telegram bots**
+- **Automation Bot Developer** focused on building and maintaining **Telegram bots**
 - Experienced in developing **automation systems** and **multi-feature bots** for real-world use cases
 - Building **custom messaging solutions** using **JavaScript, TypeScript, and Python**
 - Strong focus on **backend logic**, **command-based systems**, and **API integrations**
@@ -39,7 +39,7 @@
 
 ## 🎯 Current Focus
 
-- Developing **scalable and reliable** WhatsApp & Telegram bot systems
+- Developing **scalable and reliable** Telegram bot systems
 - Improving **automation workflows** and **command-based architectures**
 - Building **custom bot solutions** for specific messaging automation needs
 - Enhancing **bot performance**, **stability**, and **maintainability**
@@ -50,7 +50,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **Multi-Feature WhatsApp Bot** | Command system, auto-reply, moderation tools, and API integration |
+| **Multi-Feature Telegram Bot** | Command system, auto-reply, moderation tools, and API integration |
 | **Telegram Automation Bot** | Messaging automation, user interaction handling, and custom utilities |
 | **Bot Workflow Engine** | Modular backend logic for scalable and maintainable bot development |
 | **Custom Messaging Tools** | Tailored bot solutions for specific automation requirements |
@@ -88,11 +88,8 @@
   <a href="https://t.me/yourusername">
     <img src="https://img.shields.io/badge/Telegram-@yourusername-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
-  <a href="https://wa.me/yournumber">
-    <img src="https://img.shields.io/badge/WhatsApp-+62xxx-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
