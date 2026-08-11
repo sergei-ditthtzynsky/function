@@ -57,11 +57,27 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sergei-ditthtzynsky&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sergei-ditthtzynsky&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sergei-ditthtzynsky&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergei-ditthtzynsky&theme=redical&bg_color=0d1117&color=00c853&line=00c853&point=00ff88&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
