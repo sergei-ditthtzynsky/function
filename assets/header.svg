@@ -1,0 +1,48 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050505"/>
+    <stop offset="0.48" stop-color="#0B0710"/>
+    <stop offset="1" stop-color="#24103D"/>
+  </linearGradient>
+  <linearGradient id="line" x1="70" y1="40" x2="1130" y2="290" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C3AED"/>
+    <stop offset="0.5" stop-color="#C4B5FD"/>
+    <stop offset="1" stop-color="#4C1D95"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <radialGradient id="orb">
+    <stop stop-color="#8B5CF6" stop-opacity=".32"/>
+    <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<circle cx="1020" cy="70" r="250" fill="url(#orb)"/>
+<circle cx="160" cy="300" r="210" fill="url(#orb)" opacity=".45"/>
+
+<g opacity=".14" stroke="#C4B5FD">
+  <path d="M0 60H1200"/><path d="M0 110H1200"/><path d="M0 160H1200"/>
+  <path d="M0 210H1200"/><path d="M0 260H1200"/>
+</g>
+
+<rect x="42" y="38" width="1116" height="254" rx="16" stroke="#7C3AED" stroke-opacity=".45"/>
+<path d="M42 76V54C42 45.16 49.16 38 58 38H80" stroke="#C4B5FD" stroke-width="2"/>
+<path d="M1120 38H1142C1150.84 38 1158 45.16 1158 54V76" stroke="#C4B5FD" stroke-width="2"/>
+<path d="M42 254V276C42 284.84 49.16 292 58 292H80" stroke="#C4B5FD" stroke-width="2"/>
+<path d="M1120 292H1142C1150.84 292 1158 284.84 1158 276V254" stroke="#C4B5FD" stroke-width="2"/>
+
+<g filter="url(#glow)">
+  <circle cx="96" cy="91" r="5" fill="#A78BFA"/>
+  <circle cx="1120" cy="238" r="4" fill="#8B5CF6"/>
+</g>
+
+<text x="600" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="5">DITTHTZYRINE</text>
+<text x="600" y="169" text-anchor="middle" fill="#BFA7FF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER  •  AUTOMATION  •  WEB</text>
+
+<rect x="300" y="205" width="600" height="1" fill="url(#line)"/>
+<text x="600" y="239" text-anchor="middle" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">BUILDING DIGITAL SYSTEMS THAT ACTUALLY WORK</text>
+</svg>
