@@ -1,110 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1220,75:111827,100:00D9FF&height=250&section=header&text=DITTHTZYRINE&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20BOT%20BUILDER%20%7C%20WEB%20ENGINEER&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=DITTHTZYRINE&fontSize=58&fontColor=ffffff&fontAlignY=37&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20AUTOMATION%20%2F%2F%20WEB&descSize=15&descAlignY=58&animation=fadeIn&color=0:050505,35:0b0614,70:1a0b2d,100:6d28d9" width="100%"/>
 
-<a href="https://github.com/ditthtzyrine">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+things+that+actually+work.;Telegram+Bot+Developer.;Full+Stack+Web+Developer.;REST+API+%26+Automation+Enthusiast.;Always+learning.+Always+building." alt="Typing animation"/>
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+software%2C+not+just+repositories.;Web+%2B+Backend+%2B+Automation.;Telegram+Bots+%7C+APIs+%7C+Web+Systems.;Turning+ideas+into+useful+things." alt="Typing"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ditthtzyrine&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ditthtzyrine?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=050505"/>
-<img src="https://img.shields.io/github/stars/ditthtzyrine?label=STARS&style=for-the-badge&color=111827&labelColor=050505"/>
+<a href="https://github.com/ditthtzyrine">
+<img src="https://img.shields.io/badge/github-050505?style=flat-square&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://github.com/ditthtzyrine?tab=followers">
+<img src="https://img.shields.io/github/followers/ditthtzyrine?style=flat-square&labelColor=050505&color=6d28d9&logo=github&logoColor=ffffff" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ditthtzyrine&style=flat-square&label=visitors&color=6d28d9&labelColor=050505" />
 
 </div>
 
 <br>
 
-## `01 // ABOUT`
-
-```js
-const ditthtzyrine = {
-    name: "Ditthtzyrine",
-    role: "Software Developer",
-
-    focus: [
-        "Web Development",
-        "Telegram Bot Development",
-        "Backend Systems",
-        "REST APIs",
-        "Automation"
-    ],
-
-    stack: [
-        "JavaScript",
-        "Node.js",
-        "PHP",
-        "Laravel",
-        "React",
-        "Next.js",
-        "MySQL"
-    ],
-
-    mindset: "Build. Break. Learn. Improve."
-};
-```
-
-<div align="center">
-
-**I turn ideas into practical software, automation systems and web applications.**
-
-</div>
+> **Software developer focused on building practical web systems, automation and Telegram-based tools.**
 
 ---
 
-## `02 // TECH STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,dart,bash&theme=dark" />
-
-### Frameworks & Runtime
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vue,laravel,flutter&theme=dark" />
-
-### Database & Services
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase&theme=dark" />
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nginx,cloudflare,vercel,postman,figma&theme=dark" />
-
-</div>
-
----
-
-## `03 // WHAT I BUILD`
+## `01 / PROFILE`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### Web Systems
+### A little about me
 
-- Responsive websites
-- SaaS applications
-- Dashboard systems
-- Admin panels
-- Authentication
-- REST APIs
-- Payment integrations
+I like building things from the ground up — from small automation scripts to complete web systems.
+
+My main interest sits around **JavaScript, Node.js, PHP, Telegram automation, APIs and backend development**.
+
+I care about clean interfaces, reliable systems and code that can actually be maintained after the first release.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### Automation
-
-- Telegram bots
-- Group management
-- Notification systems
-- Downloader integrations
-- API automation
-- Scheduled jobs
-- Utility systems
+```txt
+┌───────────────────────┐
+│       DEVELOPER       │
+├───────────────────────┤
+│ WEB            █████  │
+│ BACKEND        █████  │
+│ AUTOMATION     █████  │
+│ APIs           █████  │
+│ DEVOPS         ███░░  │
+├───────────────────────┤
+│ STATUS: BUILDING     │
+└───────────────────────┘
+```
 
 </td>
 </tr>
@@ -112,116 +61,210 @@ const ditthtzyrine = {
 
 ---
 
-## `04 // CURRENTLY BUILDING`
+## `02 / STACK`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Designing+better+developer+tools...;Building+automation+systems...;Improving+backend+architecture...;Turning+ideas+into+working+products...;Learning+something+new+every+day..." alt="Currently building animation"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,bash&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vue,laravel&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,cloudflare,vercel,postman,figma&theme=dark" />
 
 </div>
 
 ---
 
-## `05 // GITHUB PERFORMANCE`
+## `03 / WHAT I DO`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Web
+
+`Frontend`
+
+`Backend`
+
+`REST API`
+
+`Dashboard`
+
+`Authentication`
+
+`SaaS`
+
+</td>
+<td valign="top" width="33%">
+
+### Automation
+
+`Telegram Bots`
+
+`Schedulers`
+
+`Notifications`
+
+`API Integration`
+
+`Moderation`
+
+`Utilities`
+
+</td>
+<td valign="top" width="33%">
+
+### Engineering
+
+`Architecture`
+
+`Databases`
+
+`Linux`
+
+`Docker`
+
+`Deployment`
+
+`Performance`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / NOW`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ditthtzyrine&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditthtzyrine&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=850&color=8B5CF6&center=true&vCenter=true&width=650&lines=building+better+tools;cleaning+up+old+systems;learning+new+architecture;shipping+useful+software" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ditthtzyrine&theme=transparent&hide_border=true&background=050505&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=777777" width="72%" />
-
-</div>
-
----
-
-## `06 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ditthtzyrine&bg_color=050505&color=FFFFFF&line=00D9FF&point=7C3AED&area=true&hide_border=true&custom_title=DITTHTZYRINE%20CONTRIBUTION%20ACTIVITY" width="100%" />
-
-</div>
-
----
-
-## `07 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ditthtzyrine/ditthtzyrine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
-> The animated contribution snake is generated automatically by GitHub Actions.
-
----
-
-## `08 // GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ditthtzyrine&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## `09 // DEVELOPMENT MODE`
-
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  DITTHTZYRINE // DEVELOPMENT STATUS                     │
-│                                                          │
-│  WEB DEVELOPMENT          ████████████████████  100%    │
-│  TELEGRAM AUTOMATION      ███████████████████   95%     │
-│  REST API                 ██████████████████    90%     │
-│  BACKEND SYSTEMS          ████████████████      85%     │
-│  DATABASE                 ███████████████       80%     │
-│  DEVOPS                   ████████████          70%     │
-│                                                          │
-│  STATUS   : ONLINE                                       │
-│  MODE     : BUILD                                        │
-│  MINDSET  : KEEP SHIPPING                                │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+current mode
+────────────────────────────────────────
+
+  [■■■■■■■■■■■■■■■■■■■■]  BUILD
+  [■■■■■■■■■■■■■■■■■□□□]  LEARN
+  [■■■■■■■■■■■■■■□□□□□□]  EXPERIMENT
+  [■■■■■■■■■■■■■■■■■■□□]  SHIP
+
+────────────────────────────────────────
 ```
 
 ---
 
-## `10 // ENGINEERING PRINCIPLES`
+## `05 / GITHUB`
 
 <div align="center">
 
-`SIMPLE` → `RELIABLE` → `FAST` → `MAINTAINABLE` → `SCALABLE`
+<img src="https://github-readme-stats.vercel.app/api?username=ditthtzyrine&show_icons=true&hide_border=true&bg_color=0d0912&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=7c3aed&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditthtzyrine&layout=compact&hide_border=true&bg_color=0d0912&title_color=c4b5fd&text_color=e5e7eb&langs_count=8" height="180"/>
 
 <br><br>
 
-> **Don't just write code. Build something useful.**
+<img src="https://streak-stats.demolab.com?user=ditthtzyrine&theme=transparent&hide_border=true&background=0d0912&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=71717a" width="72%"/>
 
 </div>
 
 ---
 
-## `11 // CONNECT`
+## `06 / ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ditthtzyrine&bg_color=0d0912&color=e5e7eb&line=8b5cf6&point=c4b5fd&area_color=3b0764&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+## `07 / CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ditthtzyrine/ditthtzyrine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+
+</div>
+
+---
+
+## `08 / TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ditthtzyrine&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `09 / ENGINEERING`
+
+```js
+const approach = [
+  "keep interfaces simple",
+  "make APIs predictable",
+  "design for failure",
+  "automate repetitive work",
+  "ship before overengineering",
+  "improve after real usage"
+];
+```
+
+<div align="center">
+
+`SIMPLE`  ·  `USEFUL`  ·  `RELIABLE`  ·  `MAINTAINABLE`
+
+</div>
+
+---
+
+## `10 / FEATURED`
+
+<div align="center">
+
+<a href="https://github.com/ditthtzyrine?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ditthtzyrine&repo=sentinel-kit&theme=dark&hide_border=true&bg_color=0d0912&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb"/>
+</a>
+
+<a href="https://github.com/ditthtzyrine?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ditthtzyrine&repo=ditthtzyrine-helper&theme=dark&hide_border=true&bg_color=0d0912&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb"/>
+</a>
+
+</div>
+
+---
+
+## `11 / CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/ditthtzyrine">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="https://t.me/ditthtzy">
-<img src="https://img.shields.io/badge/Telegram-050505?style=for-the-badge&logo=telegram&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/TELEGRAM-050505?style=for-the-badge&logo=telegram&logoColor=a78bfa"/>
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by.;Explore+the+code.;Build+something+worth+keeping." alt="Footer"/>
 
 </div>
 
@@ -229,12 +272,6 @@ const ditthtzyrine = {
 
 <div align="center">
 
-<a href="https://github.com/ditthtzyrine">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Thanks+for+visiting+my+profile.;Explore+the+repositories.;Fork+something+useful.;Keep+building+cool+things." alt="Footer typing animation"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:111827,75:0B1220,100:050505&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:6d28d9,35:3b0764,70:0b0614,100:050505" width="100%"/>
 
 </div>
